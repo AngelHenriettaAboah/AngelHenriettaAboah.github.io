@@ -3,10 +3,10 @@
     "id": 0.1,
     "question": " What is the name of the coffee that's made from poop?",
     "options": [
-      { "option 1": "Nescafe", "isCorrect": false },
-      { "option 2": "Kopi Luwak", "isCorrect": true },
-      { "option 3": "Nestle", "isCorrect": false },
-      { "option 4": "Teacup", "isCorrect": false }
+      { "option": "Nescafe", "isCorrect": false },
+      { "option": "Kopi Luwak", "isCorrect": true },
+      { "option": "Nestle", "isCorrect": false },
+      { "option": "Teacup", "isCorrect": false }
     ],
     "correct answer": "kopi Luwak"
   },
@@ -14,10 +14,10 @@
     "id": 0.2,
     "question": "Which country are you visiting if you are in the Taj Mahal?",
     "options": [
-      { "option 1": "Paris", "isCorrect": false },
-      { "option 2": "India", "isCorrect": true },
-      { "option 3": "Stockholm", "isCorrect": false },
-      { "option 4": "Kiev", "isCorrect": false }
+      { "option": "Paris", "isCorrect": false },
+      { "option": "India", "isCorrect": true },
+      { "option": "Stockholm", "isCorrect": false },
+      { "option": "Kiev", "isCorrect": false }
     ],
     "correct answer": "India"
   },
@@ -25,10 +25,10 @@
     "id": 0.3,
     "question": "What is the name of the tool commonly used to grind substances in a mortar?",
     "options": [
-      { "option 1": "Pestle", "isCorrect": true },
-      { "option 2": "Toothpick", "isCorrect": false },
-      { "option 3": "Pencil", "isCorrect": false },
-      { "option 4": "rod", "isCorrect": false }
+      { "option": "Pestle", "isCorrect": true },
+      { "option": "Toothpick", "isCorrect": false },
+      { "option": "Pencil", "isCorrect": false },
+      { "option": "rod", "isCorrect": false }
     ],
     "correct answer": "Pestle"
   },
@@ -36,10 +36,10 @@
     "id": 0.4,
     "question": "What year was the movie Titanic released?",
     "options": [
-      { "option 1": "1996", "isCorrect": false },
-      { "option 2": "1997", "isCorrect": true },
-      { "option 3": "1998", "isCorrect": false },
-      { "option 4": "1999", "isCorrect": false }
+      { "option": "1996", "isCorrect": false },
+      { "option": "1997", "isCorrect": true },
+      { "option": "1998", "isCorrect": false },
+      { "option": "1999", "isCorrect": false }
     ],
     "correct answer": "1997"
   },
@@ -47,10 +47,10 @@
     "id": 0.5,
     "question": "What best describes Pink?",
     "options": [
-      { "option 1": "color", "isCorrect": true },
-      { "option 2": "country", "isCorrect": false },
-      { "option 3": "city", "isCorrect": false },
-      { "option 4": "coffee", "isCorrect": false }
+      { "option": "color", "isCorrect": true },
+      { "option": "country", "isCorrect": false },
+      { "option": "city", "isCorrect": false },
+      { "option": "coffee", "isCorrect": false }
     ],
     "correct answer": "color"
   },
@@ -59,10 +59,10 @@
     "id": 0.6,
     "question": "When did World War II begin?",
     "options": [
-      { "option 1": "September 1, 1939", "isCorrect": true },
-      { "option 2": "September 1, 1941", "isCorrect": false },
-      { "option 3": "September 1, 1952", "isCorrect": false },
-      { "option 4": "September 1, 1969", "isCorrect": false }
+      { "option": "September 1, 1939", "isCorrect": true },
+      { "option": "September 1, 1941", "isCorrect": false },
+      { "option": "September 1, 1952", "isCorrect": false },
+      { "option": "September 1, 1969", "isCorrect": false }
     ],
     "correct answer": "September 1, 1939"
   },
@@ -71,10 +71,10 @@
     "id": 0.7,
     "question": "What does a camel store in its hump?",
     "options": [
-      { "option 1": "poop", "isCorrect": false },
-      { "option 2": "fat", "isCorrect": true },
-      { "option 3": "food", "isCorrect": false },
-      { "option 4": "fruit", "isCorrect": false }
+      { "option": "poop", "isCorrect": false },
+      { "option": "fat", "isCorrect": true },
+      { "option": "food", "isCorrect": false },
+      { "option": "fruit", "isCorrect": false }
     ],
     "correct answer": "fat"
   },
@@ -83,10 +83,10 @@
     "id": 0.8,
     "question": "which country did the first female president in Africa originates from?",
     "options": [
-      { "option 1": "Tarzania", "isCorrect": false },
-      { "option 2": "Liberia", "isCorrect": true },
-      { "option 3": "Congo", "isCorrect": false },
-      { "option 4": "Libya", "isCorrect": false }
+      { "option": "Tarzania", "isCorrect": false },
+      { "option": "Liberia", "isCorrect": true },
+      { "option": "Congo", "isCorrect": false },
+      { "option": "Libya", "isCorrect": false }
     ],
     "correct answer": "Liberia"
   }
