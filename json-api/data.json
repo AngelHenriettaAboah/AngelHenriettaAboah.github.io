@@ -8,7 +8,7 @@
       { "option": "Nestle", "isCorrect": false },
       { "option": "Teacup", "isCorrect": false }
     ],
-    "correct answer": "kopi Luwak"
+    "correctAnswer": "kopi Luwak"
   },
   {
     "id": 0.2,
@@ -19,7 +19,7 @@
       { "option": "Stockholm", "isCorrect": false },
       { "option": "Kiev", "isCorrect": false }
     ],
-    "correct answer": "India"
+    "correctAnswer": "India"
   },
   {
     "id": 0.3,
@@ -30,7 +30,7 @@
       { "option": "Pencil", "isCorrect": false },
       { "option": "rod", "isCorrect": false }
     ],
-    "correct answer": "Pestle"
+    "correctAnswer": "Pestle"
   },
   {
     "id": 0.4,
@@ -41,7 +41,7 @@
       { "option": "1998", "isCorrect": false },
       { "option": "1999", "isCorrect": false }
     ],
-    "correct answer": "1997"
+    "correctAnswer": "1997"
   },
   {
     "id": 0.5,
@@ -52,7 +52,7 @@
       { "option": "city", "isCorrect": false },
       { "option": "coffee", "isCorrect": false }
     ],
-    "correct answer": "color"
+    "correctAnswer": "color"
   },
 
   {
@@ -64,7 +64,7 @@
       { "option": "September 1, 1952", "isCorrect": false },
       { "option": "September 1, 1969", "isCorrect": false }
     ],
-    "correct answer": "September 1, 1939"
+    "correctAnswer": "September 1, 1939"
   },
 
   {
@@ -76,7 +76,7 @@
       { "option": "food", "isCorrect": false },
       { "option": "fruit", "isCorrect": false }
     ],
-    "correct answer": "fat"
+    "correctAnswer": "fat"
   },
 
   {
@@ -88,6 +88,6 @@
       { "option": "Congo", "isCorrect": false },
       { "option": "Libya", "isCorrect": false }
     ],
-    "correct answer": "Liberia"
+    "correctAnswer": "Liberia"
   }
 ]
