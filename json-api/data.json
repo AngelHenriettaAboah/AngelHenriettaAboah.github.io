@@ -89,5 +89,29 @@
       { "option": "Libya", "isCorrect": false }
     ],
     "correctAnswer": "Liberia"
+  },
+
+  {
+    "id": 0.9,
+    "question": "In what year were the first Air Jordan sneakers released?",
+    "options": [
+      { "option": "2001", "isCorrect": false },
+      { "option": "1984", "isCorrect": true },
+      { "option": "1721", "isCorrect": false },
+      { "option": "1981", "isCorrect": false }
+    ],
+    "correctAnswer": "1984"
+  },
+
+  {
+    "id": 10.0,
+    "question": "In which European city would you find Orly airport?",
+    "options": [
+      { "option": "Barcelona", "isCorrect": false },
+      { "option": "Paris", "isCorrect": true },
+      { "option": "Brussels", "isCorrect": false },
+      { "option": "Bramming", "isCorrect": false }
+    ],
+    "correctAnswer": "Paris"
   }
 ]
