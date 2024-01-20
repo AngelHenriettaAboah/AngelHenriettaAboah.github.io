@@ -1,6 +1,6 @@
 [
   {
-    "id": 0.1,
+    "id": 1,
     "question": " What is the name of the coffee that's made from poop?",
     "options": [
       { "option": "Nescafe", "isCorrect": false },
@@ -8,10 +8,10 @@
       { "option": "Nestle", "isCorrect": false },
       { "option": "Teacup", "isCorrect": false }
     ],
-    "correctAnswer": "kopi Luwak"
+    "correctAnswer": "Kopi Luwak"
   },
   {
-    "id": 0.2,
+    "id": 2,
     "question": "Which country are you visiting if you are in the Taj Mahal?",
     "options": [
       { "option": "Paris", "isCorrect": false },
@@ -22,7 +22,7 @@
     "correctAnswer": "India"
   },
   {
-    "id": 0.3,
+    "id": 3,
     "question": "What is the name of the tool commonly used to grind substances in a mortar?",
     "options": [
       { "option": "Pestle", "isCorrect": true },
@@ -33,7 +33,7 @@
     "correctAnswer": "Pestle"
   },
   {
-    "id": 0.4,
+    "id": 4,
     "question": "What year was the movie Titanic released?",
     "options": [
       { "option": "1996", "isCorrect": false },
@@ -44,7 +44,7 @@
     "correctAnswer": "1997"
   },
   {
-    "id": 0.5,
+    "id": 5,
     "question": "What best describes Pink?",
     "options": [
       { "option": "color", "isCorrect": true },
@@ -56,7 +56,7 @@
   },
 
   {
-    "id": 0.6,
+    "id": 6,
     "question": "When did World War II begin?",
     "options": [
       { "option": "September 1, 1939", "isCorrect": true },
@@ -68,7 +68,7 @@
   },
 
   {
-    "id": 0.7,
+    "id": 7,
     "question": "What does a camel store in its hump?",
     "options": [
       { "option": "poop", "isCorrect": false },
@@ -80,7 +80,7 @@
   },
 
   {
-    "id": 0.8,
+    "id": 8,
     "question": "which country did the first female president in Africa originates from?",
     "options": [
       { "option": "Tarzania", "isCorrect": false },
@@ -92,7 +92,7 @@
   },
 
   {
-    "id": 0.9,
+    "id": 9,
     "question": "In what year were the first Air Jordan sneakers released?",
     "options": [
       { "option": "2001", "isCorrect": false },
@@ -104,7 +104,7 @@
   },
 
   {
-    "id": 10.0,
+    "id": 10,
     "question": "In which European city would you find Orly airport?",
     "options": [
       { "option": "Barcelona", "isCorrect": false },
